@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DBJDBC.iml" filepath="$PROJECT_DIR$/DBJDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BaiTap2.iml" filepath="$PROJECT_DIR$/BaiTap2.iml" />
     </modules>
   </component>
 </project>

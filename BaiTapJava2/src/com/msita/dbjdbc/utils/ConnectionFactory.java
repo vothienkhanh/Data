@@ -14,9 +14,9 @@ import java.sql.SQLException;
  */
 public class ConnectionFactory {
 	
-	public static final String URL = "jdbc:mysql://localhost:3306/dbjdbc";
+	public static final String URL = "jdbc:mysql://localhost:3306/jsp04";
     public static final String USER = "root";
-    public static final String PASS = "thong1304";
+    public static final String PASS = "1234";
     
     /**
      * Get a connection to database
